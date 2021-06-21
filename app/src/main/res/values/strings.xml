@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Datosss</string>
+    <string name="titleRegister">Sign Up User</string>
+    <string name="btnSignUp">HAVE</string>
+    <string name="name">Name :</string>
+    <string name="age">"Age: "</string>
+    <string name="phone">"Phone: "</string>
+    <string name="BtnlistData">LIST USERS</string>
+    <string name="CEDULA">TI OR CC</string>
+    <string name="deleteUser">DELETE USER</string>
+    <string name="updateUser">UPDATE USER</string>
+</resources>
